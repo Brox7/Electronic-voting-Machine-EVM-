@@ -10,6 +10,6 @@ The name of the candidate followed by a button followed by LED. Voter will press
 
 ## Files Description
 
-[Report.pdf](https://github.com/Brox7/Electronic_voting_Machine-EVM-/blob/main/Report.pdf) - Contains the project Report which highlights the project specification,justifications,assumptions,memory addressing and flowcharts explain the flow of the process.
+[Report.pdf](https://github.com/Brox7/Electronic_voting_Machine-EVM-/blob/main/Report.pdf) - Contains the project Report which highlights the project specification,justifications,assumptions,memory addressing and flowcharts explaining the flow of the process.
 
 [Chart.pdf](https://github.com/Brox7/Electronic_voting_Machine-EVM-/blob/main/Chart.pdf) - Contains how the actual EVM design will look like with all the microprocessors and interfaces.
